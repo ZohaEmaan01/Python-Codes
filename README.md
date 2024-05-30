@@ -1,2 +1,1 @@
-# Python-Codes
-Simple random python codes. 
+Basic python codes for beginners.
